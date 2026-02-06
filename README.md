@@ -14,4 +14,4 @@ Esta es mi canción favorita
   ⏐ [Spotify](https://open.spotify.com/track/5YDGyLZAachC6B9BkK3O6T5) ⏐ [YouTube](https://youtu.be/) ⏐
 </p>
 Y este es mi artista favorito 
-![George Harrison](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Harrison_1974.jpg/400px-George_Harrison_1974.jpg)
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Harrison_1974.jpg/300px-George_Harrison_1974.jpg" alt="George Harrison"></p>

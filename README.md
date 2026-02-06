@@ -1,14 +1,18 @@
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hello! here's a little about me:
-
 # i really like music :headphones:
 
 <p align="center">
   <a href="https://open.spotify.com/track/5YDGyLZAachC6B9BkK3O6T5" target="_blank">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing">
+    <!-- Mantienes tu imagen original pero con overlay de texto -->
+    <div style="position: relative; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing" width="400">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 4px #000000;">
+        <strong style="font-size: 1.2em;">Wreck of the Hesperus</strong><br>
+        <em>George Harrison</em>
+      </div>
+    </div>
   </a>
-  
-  **🎶 Wreck of the Hesperus**  
-  *by George Harrison*  
+</p>
+
+<p align="center">
   ⏐ [Spotify](https://open.spotify.com/track/5YDGyLZAachC6B9BkK3O6T5) ⏐ [YouTube](https://youtu.be/) ⏐
 </p>

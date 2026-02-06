@@ -17,6 +17,7 @@ Y este es mi artista favorito
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/George_Harrison_1974.jpg" width="300">
 </p>
+
 ## Ocupación:
 Actualmente soy Estudiante de la UAEH
 

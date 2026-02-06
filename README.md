@@ -2,14 +2,10 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/5YDGyLZAachC6B9BkK3O6T5" target="_blank">
-    <!-- Mantienes tu imagen original pero con overlay de texto -->
-    <div style="position: relative; display: inline-block;">
-      <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="Now Playing" width="400">
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; text-shadow: 2px 2px 4px #000000;">
-        <strong style="font-size: 1.2em;">Wreck of the Hesperus</strong><br>
-        <em>George Harrison</em>
-      </div>
-    </div>
+    <!-- Texto que parece una imagen -->
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-Wreck_of_the_Hesperus-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Now Playing">
+    <br>
+    <img src="https://img.shields.io/badge/🎤_Artist-George_Harrison-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Artist">
   </a>
 </p>
 
